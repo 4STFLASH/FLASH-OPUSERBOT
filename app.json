@@ -2,7 +2,7 @@
     "name": "𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓",
     "logo": "https://telegra.ph/file/038602f34ce054644b9a9.jpg",
     "keywords": ["telegram", "bot", "Shukla"],
-    "buildpacks": [{"url": "heroku/python"}],
+    "buildpacks": [{"url": "koyeb/python"}],
     "env": {
         "SESSION1": {
             "description": "pyrogram v2.0 string session here",
